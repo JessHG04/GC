@@ -1,0 +1,399 @@
+# depslib dependency file v1.0
+1351893396 source:g:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"load3ds.c"
+
+976659772 g:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1023918422 g:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1352024675 source:i:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\main.cpp
+	<string.h>
+	<GL/glui.h>
+
+976659772 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1352020667 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1352020431 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\load3ds.h
+
+1023918422 source:i:\users\docencia\gráficos por computador (gc-gim)\prácticas\cargl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1352062927 source:i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl2\cargl\main.cpp
+	<string.h>
+	<GL/glui.h>
+	"Objects.h"
+
+1352064014 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl2\cargl\objects.h
+	<GL/glui.h>
+
+1352063867 source:i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl2\cargl\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+
+1352020667 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl2\cargl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1352110994 source:i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl\cargl\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1352067580 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl\cargl\objects.h
+	<GL/glui.h>
+
+1352117382 source:i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl\cargl\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+
+1352020667 i:\users\docencia\gráficos por computador (gc-gim)\prácticas\opengl\cargl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1352121062 source:g:\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\practica 3\cargl\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1352071180 g:\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\practica 3\cargl\objects.h
+	<GL/glui.h>
+
+1352120982 source:g:\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\practica 3\cargl\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+
+1352024267 g:\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\practica 3\cargl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1386236228 source:g:\dropbox\github\gc_practica_open_gl\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"loadjpeg.c"
+
+1386234065 g:\dropbox\github\gc_practica_open_gl\objects.h
+	<GL\glui.h>
+
+1352020667 g:\dropbox\github\gc_practica_open_gl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1386235811 source:g:\dropbox\github\gc_practica_open_gl\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1230209916 g:\dropbox\github\gc_practica_open_gl\loadjpeg.c
+	<stdio.h>
+	<malloc.h>
+
+1388072420 source:\\psf\dropbox\github\gc_practica_open_gl\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1388072420 \\psf\dropbox\github\gc_practica_open_gl\objects.h
+	<GL\glui.h>
+
+1388072420 source:\\psf\dropbox\github\gc_practica_open_gl\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"loadjpeg.c"
+
+1352020667 \\psf\dropbox\github\gc_practica_open_gl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1230209916 \\psf\dropbox\github\gc_practica_open_gl\loadjpeg.c
+	<stdio.h>
+	<malloc.h>
+
+1388093941 D
+
+1389991206 source:c:\gc_practica_open_gl\main.cpp
+
+1388093941 514e29c3856a12eeb7ad9c973bf3c9735b82e
+	"Objects.h"
+	<GL\glui.h>
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1389989538 c:\gc_practica_open_gl\objects.h
+	<GL\glui.h>
+
+1389992504 source:c:\gc_practica_open_gl\objects.cpp
+
+1352020667 c:\gc_practica_open_gl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1230209916 c:\gc_practica_open_gl\loadjpeg.c
+	<stdio.h>
+	<malloc.h>
+
+1388089883 c:\gc_practica_open_gl\loadraw.c
+	<stdio.h>
+	<malloc.h>
+
+1388168938 c:\gc_practica_open_gl\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1388093941 c:\gc_practica_open_gl\imageloader.h
+
+1390077475 source:\\psf\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\alexjovermorales_practicasgc\gc_practica_open_gl\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1389989538 \\psf\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\alexjovermorales_practicasgc\gc_practica_open_gl\objects.h
+	<GL\glui.h>
+
+1390068075 source:\\psf\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\alexjovermorales_practicasgc\gc_practica_open_gl\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1352020667 \\psf\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\alexjovermorales_practicasgc\gc_practica_open_gl\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1388168938 \\psf\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\alexjovermorales_practicasgc\gc_practica_open_gl\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1388093941 \\psf\dropbox\estudios\ingenieria multimedia\3r año\1r cuatrimestre\gc (graficos por computador)\practica\alexjovermorales_practicasgc\gc_practica_open_gl\imageloader.h
+
+1388093941 3d3105b5c4bd8fbda4d5c6491a29acbf0c869
+
+1543346139 source:f:\escritorio\multimedia\tercero\gc\practica-gc-opengl-master\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practica-gc-opengl-master\objects.h
+	<GL\glui.h>
+
+1543347213 source:f:\escritorio\multimedia\tercero\gc\practica-gc-opengl-master\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practica-gc-opengl-master\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practica-gc-opengl-master\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practica-gc-opengl-master\imageloader.h
+
+1543346139 source:f:\escritorio\multimedia\tercero\gc\practicasalvadora\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practicasalvadora\objects.h
+	<GL\glui.h>
+
+1543347213 source:f:\escritorio\multimedia\tercero\gc\practicasalvadora\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practicasalvadora\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practicasalvadora\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392593090 f:\escritorio\multimedia\tercero\gc\practicasalvadora\imageloader.h
+
+1544691731 source:c:\users\julio\onedrive\escritorio\practicasalvadora\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1544691670 c:\users\julio\onedrive\escritorio\practicasalvadora\objects.h
+	<GL\glui.h>
+
+1544690621 source:c:\users\julio\onedrive\escritorio\practicasalvadora\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392593090 c:\users\julio\onedrive\escritorio\practicasalvadora\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392593090 c:\users\julio\onedrive\escritorio\practicasalvadora\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392593090 c:\users\julio\onedrive\escritorio\practicasalvadora\imageloader.h
+
+1544695332 source:c:\users\juanr\onedrive\escritorio\practicasalvadora\practicasalvadora\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1544695272 c:\users\juanr\onedrive\escritorio\practicasalvadora\practicasalvadora\objects.h
+	<GL\glui.h>
+
+1573052693 source:c:\users\juanr\onedrive\escritorio\practicasalvadora\practicasalvadora\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392596690 c:\users\juanr\onedrive\escritorio\practicasalvadora\practicasalvadora\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392596690 c:\users\juanr\onedrive\escritorio\practicasalvadora\practicasalvadora\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392596690 c:\users\juanr\onedrive\escritorio\practicasalvadora\practicasalvadora\imageloader.h
+
+1544695332 source:c:\users\juanr\onedrive\escritorio\practicasalvadora\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1544695272 c:\users\juanr\onedrive\escritorio\practicasalvadora\objects.h
+	<GL\glui.h>
+
+1573052693 source:c:\users\juanr\onedrive\escritorio\practicasalvadora\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392596690 c:\users\juanr\onedrive\escritorio\practicasalvadora\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392596690 c:\users\juanr\onedrive\escritorio\practicasalvadora\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392596690 c:\users\juanr\onedrive\escritorio\practicasalvadora\imageloader.h
+
+1573125400 source:c:\users\juanr\onedrive\escritorio\gc\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1544695272 c:\users\juanr\onedrive\escritorio\gc\objects.h
+	<GL\glui.h>
+
+1573125744 source:c:\users\juanr\onedrive\escritorio\gc\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392596690 c:\users\juanr\onedrive\escritorio\gc\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392596690 c:\users\juanr\onedrive\escritorio\gc\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392596690 c:\users\juanr\onedrive\escritorio\gc\imageloader.h
+
+1575837441 source:c:\users\jessi\desktop\gc\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1544695272 c:\users\jessi\desktop\gc\objects.h
+	<GL\glui.h>
+
+1575823009 source:c:\users\jessi\desktop\gc\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392596690 c:\users\jessi\desktop\gc\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392596690 c:\users\jessi\desktop\gc\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392596690 c:\users\jessi\desktop\gc\imageloader.h
+
+1575886064 source:c:\users\jessi\documents\ingeniería multimedia\tercer curso 2.0\primer cuatrimestre\gráficos por computador\práctica\cargl.v2.1 (shaders) - segunda entrega\main.cpp
+	"Objects.h"
+	<GL\glui.h>
+
+1575884528 c:\users\jessi\documents\ingeniería multimedia\tercer curso 2.0\primer cuatrimestre\gráficos por computador\práctica\cargl.v2.1 (shaders) - segunda entrega\objects.h
+	<GL\glui.h>
+
+1576153562 source:c:\users\jessi\documents\ingeniería multimedia\tercer curso 2.0\primer cuatrimestre\gráficos por computador\práctica\cargl.v2.1 (shaders) - segunda entrega\objects.cpp
+	"Objects.h"
+	<GL/glui.h>
+	"load3ds.c"
+	"imageloader.cpp"
+
+1392596690 c:\users\jessi\documents\ingeniería multimedia\tercer curso 2.0\primer cuatrimestre\gráficos por computador\práctica\cargl.v2.1 (shaders) - segunda entrega\load3ds.c
+	<math.h>
+	<stdio.h>
+	<malloc.h>
+
+1392596690 c:\users\jessi\documents\ingeniería multimedia\tercer curso 2.0\primer cuatrimestre\gráficos por computador\práctica\cargl.v2.1 (shaders) - segunda entrega\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1392596690 c:\users\jessi\documents\ingeniería multimedia\tercer curso 2.0\primer cuatrimestre\gráficos por computador\práctica\cargl.v2.1 (shaders) - segunda entrega\imageloader.h
+

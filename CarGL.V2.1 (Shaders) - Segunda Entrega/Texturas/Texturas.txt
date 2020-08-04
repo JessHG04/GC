@@ -1,0 +1,11 @@
+0 - camino - 
+1- casa
+2- cesped - 
+3 - stop
+4- Farola
+5- Cohete
+6- arena
+7- madera_banco - 
+8- 
+9- hierba
+10- Maceta
